@@ -1,4 +1,6 @@
 # design-first
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadam-hanna%2Fdesign-first.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadam-hanna%2Fdesign-first?ref=badge_shield)
+
 
 design-first is a command line tool for helping you to build better http REST api's with Typescript.
 
@@ -343,3 +345,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fadam-hanna%2Fdesign-first.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fadam-hanna%2Fdesign-first?ref=badge_large)
